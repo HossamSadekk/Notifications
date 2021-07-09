@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="notification_content_string">this is my notification,
+        this is my notification
+        this is my notification,
+        this is my notification,this is my notification
+        this is my notification
+        this is my notification
+        this is my notification
+        this is my notification
+        this is my notification
+    </string>
+</resources>
